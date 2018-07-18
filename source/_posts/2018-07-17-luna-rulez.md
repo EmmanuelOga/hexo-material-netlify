@@ -9,6 +9,4 @@ HEY HEY HEY
 
 Hello World!!!
 
-
-
-![](/images/uploads/see-me-rollin.jpg)
+![null](/images/uploads/see-me-rollin.jpg)
